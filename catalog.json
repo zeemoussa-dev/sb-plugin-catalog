@@ -1,0 +1,20 @@
+{
+  "name": "Second Brain",
+  "about": "The official Second Brain OS plugin catalog (framework ADR-139). Every install reads it on Marketplace > Check for updates. List a plugin by its repository; its version, framework API and everything else come from that repository's own plugin.json.",
+  "plugins": [
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-my-day"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-entities"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-strategic-entities"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-azure-cost-manager"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-core42-insight"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-file-manager"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-agentic-map"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-home-assistant"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-action-center"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-pss"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-cbo"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-connector-microsoft"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-connector-google"},
+    {"repo": "https://github.com/zeemoussa-dev/sb-plugins-connector-outlook-desktop"}
+  ]
+}
